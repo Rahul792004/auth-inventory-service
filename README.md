@@ -1,0 +1,1 @@
+# auth-inventory-service
