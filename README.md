@@ -129,6 +129,7 @@ Uppercase letter
 Number
 Special character
 Quantity must be ≥ 0
+
 👤 Role Permissions
 Role	Permissions
 ADMIN	Full access (create, update, stock)
