@@ -91,11 +91,16 @@ src/
 "role": "ADMIN"
 }
 
+
+
+
 Login Response:
 ```json
 {
   "token": "jwt_token_here"
 }
+
+
 
 
 🗄️ Database Schema
@@ -108,10 +113,14 @@ Item Table
 id
 name
 quantity
+
+
 ⚠️ Error Handling
 Invalid credentials → 401 Unauthorized
 Item not found → 404 Not Found
 Insufficient stock → 400 Bad Request
+
+
 🔐 Validation Rules
 Email must be valid format
 Password must contain:
